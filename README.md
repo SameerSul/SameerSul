@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 3rd-year Computer Engineering student at McMaster University<br>- Passionate about AI, embedded systems, as well as spacecraft and automotive vehicles<br>- My hobbies are playing Basketball, 3D Printing, and Reading<br>- Check out my personal website if you wanna learn more about me:
+- 3rd-year Computer Engineering student at McMaster University<br>- Passionate about AI, embedded systems, as well as spacecraft and automotive vehicles<br>- My hobbies are playing Basketball, 3D Printing, and Reading<br>- Check out my personal website if you wanna learn more about me: https://sameersulemansite.pages.dev/
 
 
 ## 🌐 Socials:
