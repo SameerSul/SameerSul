@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 4th-year Computer Engineering student at McMaster University<br>- Passionate about AI, VLSI, FPGA's just embedded systems in general, pretty cool. <br>- My hobbies are playing Basketball, 3D Printing, and Reading<br>- Check out my personal website if you wanna learn more about me: https://sameersulemansite.pages.dev/
+- 4th-year Computer Engineering student at McMaster University<br>- Passionate about AI, VLSI, FPGA's, LLMs, pretty cool. <br>- My hobbies are playing Basketball, 3D Printing, and Reading<br>- Check out my personal website if you wanna learn more about me: https://sameersulemansite.pages.dev/
 
 
 ## 🌐 Socials:
@@ -11,4 +11,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SameerSul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
