@@ -3,7 +3,7 @@
 
 - Prev SWE (PD) @ AMD
 
-- Currently doing cool ML for PD stuff @ Tenstorrent
+- Currently doing cool ML stuff @ Tenstorrent
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-sul) 
